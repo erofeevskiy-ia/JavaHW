@@ -5,7 +5,7 @@ import static java.lang.Math.pow;
 public class Loop {
 
     public static void main(String[] args) {
-        System.out.println("minmum element="+minElemSequence(0.01));
+        System.out.println("minmum element="+minElemSequence(0.00005));
     }
 
     /**
